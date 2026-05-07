@@ -77,11 +77,17 @@ Each RFID tag contains a **unique identifier (UID)**.
 
 ## Circuit Diagram
 
-*(Add circuit image here)*
+<p align="center">
+  <img src="images/circuitdiagram.png" width="500"/>
+</p>
+
 
 ---
 
 ## Hardware Connections
+<p align="center">
+  <img src="images/hardware.png" width="500"/>
+</p>
 
 ### RFID RC522 → NodeMCU
 
@@ -119,8 +125,9 @@ Each RFID tag contains a **unique identifier (UID)**.
 ---
 
 ## Flowchart
-
-*(Add flowchart image here)*
+<p align="center">
+  <img src="images/flowchart.png" width="500"/>
+</p>*(Add flowchart image here)*
 
 ---
 
