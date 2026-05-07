@@ -127,7 +127,7 @@ Each RFID tag contains a **unique identifier (UID)**.
 ## Flowchart
 <p align="center">
   <img src="images/flowchart.png" width="500"/>
-</p>*(Add flowchart image here)*
+</p>
 
 ---
 
